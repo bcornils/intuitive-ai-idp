@@ -27,6 +27,10 @@ that any portal (Backstage, Port, custom) calls, not a portal competing with the
 Moat = VMware/OpenStack lifecycle depth + AI agent provisioning +
 lineage-instrumented telemetry that SaaS-first competitors cannot replicate.
 
+## Product review notes
+
+**I reviewed the live product as part of GTM assessment — findings documented in docs/adoption/gtm-readiness-addendum.md.
+
 ---
 
 ## Q1 shape at a glance
