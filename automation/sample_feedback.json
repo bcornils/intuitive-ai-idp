@@ -1,0 +1,37 @@
+[
+  {
+    "source": "support_ticket",
+    "team": "DC Ops Team Alpha",
+    "segment": "B",
+    "date": "2026-03-15",
+    "content": "VM provisioning is taking 3 days. 12 tickets in queue. No self-service path. Number one pain."
+  },
+  {
+    "source": "nps_verbatim",
+    "team": "Data Platform Team",
+    "segment": "C",
+    "date": "2026-03-18",
+    "content": "Spark pipeline failed, spent 4 hours determining if infra or code issue. Need lineage across the stack."
+  },
+  {
+    "source": "qbr_note",
+    "team": "Migration Team Omega",
+    "segment": "A",
+    "date": "2026-03-20",
+    "content": "Need AI anomaly detection before VMware migration starts. This is our Q1 blocker."
+  },
+  {
+    "source": "interview_note",
+    "team": "DC Ops Team Beta",
+    "segment": "B",
+    "date": "2026-03-12",
+    "content": "CMDB is wrong within hours of any change. We stopped trusting it. Automatic CMDB accuracy would make me a champion for this platform."
+  },
+  {
+    "source": "interview_note",
+    "team": "Migration Team Alpha",
+    "segment": "A",
+    "date": "2026-03-10",
+    "content": "Last migration took down 3 dependent services nobody knew about. Need dependency map before moving anything."
+  }
+]
